@@ -1,10 +1,9 @@
-# -*- coding: cp1252 -*-
 import pickle
 
 #class Paraglider():
 #    def __init__ (self,eier):
 #        self.sele = 'viktig'
-#        self.kamera = 'digg å ha'
+#        self.kamera = 'digg Ã¥ ha'
 #        self.eier = eier
 
 
@@ -24,7 +23,7 @@ def loadobject(filename):
 
 
 
-#obj1 = Paraglider('Håkon')
+#obj1 = Paraglider('HÃ¥kon')
 #obj2 = Paraglider('Voss HPGK')
 #filename = 'heioghaa_1'
 
