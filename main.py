@@ -1,5 +1,5 @@
 import pickle
-import sys
+#import sys
 #class Paraglider():
 #    def __init__ (self,eier):
 #        self.sele = 'viktig'
