@@ -1,4 +1,13 @@
+#s1
+
+#s2
+
 import pickle
+
+
+
+
+
 #import sys
 #class Paraglider():
 ##    def __init__ (self,eier):
