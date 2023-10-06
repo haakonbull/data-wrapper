@@ -3,7 +3,7 @@ import pickle
 #class Paraglider():
 ##    def __init__ (self,eier):
 ##        self.sele = 'viktig'
-#        self.kamera = 'digg å ha'
+##        self.kamera = 'digg å ha'
 #        self.eier = eier
 
 
